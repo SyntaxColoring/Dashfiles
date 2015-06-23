@@ -1,0 +1,33 @@
+{
+	"always_show_minimap_viewport": true,
+	"atomic_save": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_find_in_selection": true,
+	"auto_match_enabled": false,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Solarized (Modified Light).tmTheme",
+	"drag_text": false,
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Inconsolata-dz",
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"indent_subsequent_lines": false,
+	"indent_to_bracket": true,
+	"overlay_scroll_bars": "enabled",
+	"remember_open_files": false,
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"trim_automatic_white_space": false
+}
