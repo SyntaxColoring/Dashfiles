@@ -1,8 +1,10 @@
 [user]
 	name = Max Marrone
 	email = max@marrone.nyc
-[push]
-	default = simple
 [credential]
 	username = SyntaxColoring
 	helper = cache
+[push]
+	default = simple
+[merge]
+	conflictstyle = diff3
