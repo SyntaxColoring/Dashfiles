@@ -1,3 +1,3 @@
 function fish_greeting
-	echo "Welcome back, $USER."
+	echo "Welcome back, "(whoami)"."
 end
