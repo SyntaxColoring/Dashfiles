@@ -1,6 +1,7 @@
 [user]
 	name = Max Marrone
 	email = max@marrone.nyc
+	signingkey = 229D4C1CFA0EF210
 [credential]
 	username = SyntaxColoring
 	helper = cache
@@ -8,3 +9,5 @@
 	default = simple
 [merge]
 	conflictstyle = diff3
+[commit]
+	gpgsign = true
